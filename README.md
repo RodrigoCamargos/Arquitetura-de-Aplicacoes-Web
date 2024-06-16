@@ -26,7 +26,7 @@ Endpoint: https://api.exemplo.com/moderado
 GET /comum: Rota acessível por usuários comuns.
 Endpoint: https://api.exemplo.com/comum
 
-### Guia de Introdução
+## Guia de Introdução
 ### Para começar a usar a API JWT User, siga estes passos:
 
 Obtenha uma chave de API ativa para autenticar suas solicitações.
